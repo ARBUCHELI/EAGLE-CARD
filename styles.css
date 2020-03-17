@@ -1,0 +1,42 @@
+body {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.interesting-fact{
+	font-style: italic;
+	padding-left: 1em; 
+}
+.item{
+	font-weight: bold;
+	
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding-left:1em;
+}
+.total{
+	border-style: solid;
+	border-width: thin;
+	border-color: lightgrey;
+	width: 320px;
+	padding: 0px 11px 10px 9px;
+	box-shadow: 10px 10px lightgrey;
+	
+
+}
+.semitotal{
+	border-style: solid;
+	border-width: thin;
+	border-color: lightgrey;
+	padding-bottom: 1em;
+	padding-right: 1em;
+	
+}
+img{
+	margin: auto;
+	padding-bottom: 1em;
+	width: 320px;
+}
+.description{
+	padding-left: 1em;
+}
