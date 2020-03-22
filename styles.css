@@ -2,7 +2,7 @@ body {
 	font-family: "Times New Roman", Georgia, Serif;
 }
 .interesting-fact{
-	font-style: italic;
+	font-style: italic; /*Coursive text*/
 	padding-left: 1em; 
 }
 .item{
@@ -10,7 +10,7 @@ body {
 	
 }
 ul{
-	list-style-type: none;
+	list-style-type: none; /*To delete de bullet points*/
 	margin:0;
 	padding-left:1em;
 }
